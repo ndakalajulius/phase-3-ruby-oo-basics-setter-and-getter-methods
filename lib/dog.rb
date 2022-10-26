@@ -1,20 +1,20 @@
 class Dog
  # setter method
- def name=(name)
+   def name=(name)
     @name = name
-  end
+   end
  # getter method
- def name
+   def name
     @name
-  end
+   end
   # setter method
-  def breed=(breed)
+   def breed=(breed)
      @breed = breed
    end
 
    # getter method
- def breed
+   def breed
     @breed 
-  end
+   end
 
 end
